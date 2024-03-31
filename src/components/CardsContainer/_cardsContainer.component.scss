@@ -1,6 +1,18 @@
 $background-color: #dddddd;
 
-.body {
+.cards-container {
     background-color: $background-color;
+
     min-height: 70vh;
+    max-width: 90%;
+    margin: auto;
+}
+
+.home {
+    .cards-container
+    {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+}
 }

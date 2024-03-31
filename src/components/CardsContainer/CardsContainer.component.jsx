@@ -1,8 +1,13 @@
-import React from 'react'
+import React from 'react';
 
-export default function CardsContainer() {
+import Card from '../Card/Card.component';
+
+export default function CardsContainer({ data }) {
   return (
-    <div className='body'>
+    <div className='cards-container'>
+        {data.map(element => (
+            <Card element={element} />
+      ))}
     </div>
   )
 }

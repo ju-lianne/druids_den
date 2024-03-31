@@ -1,0 +1,19 @@
+$second-color: #A1CCC2;
+
+.card {
+    background-color: aliceblue;
+    border-radius: 10px;
+    height: 28rem;
+    width: 20rem;
+    padding: 1rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+
+    h2 {
+        color: #cccccc;
+        font-size: 1.5rem;
+        text-transform: uppercase;
+    }
+}

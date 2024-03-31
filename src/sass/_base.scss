@@ -1,10 +1,13 @@
+$background-color: #dddddd;
+$second-color: #A1CCC2;
+
 * {
     margin: 0;
     font-family: 'Signika Negative';
 }
 
 .page {
-    background-color: #c8c5c5;
+    background-color: $background-color;
 }
 
 .link {
