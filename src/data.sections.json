@@ -1,0 +1,17 @@
+[
+    {
+        "id": "spells",
+        "imageUrl": "../images/spells.jpg",
+        "linkTo": "https://unsplash.com/@devin_photography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+    },
+    {
+        "id": "grimoire",
+        "imageUrl": "../../grimoire.jpg",
+        "linkTo": "https://unsplash.com/@emilyunderworld?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+    },
+    {
+        "id": "animalForm",
+        "imageUrl": "../../chipmunk.jpg",
+        "linkTo": "https://unsplash.com/@starkglow?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+    }
+]
