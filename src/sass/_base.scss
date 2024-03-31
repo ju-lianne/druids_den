@@ -8,6 +8,17 @@ $second-color: #A1CCC2;
 
 .page {
     background-color: $background-color;
+
+    .page-body {
+        min-height: 68vh;
+        max-width: 90%;
+        margin: auto;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+    }
 }
 
 .link {

@@ -2,10 +2,6 @@ $background-color: #dddddd;
 
 .cards-container {
     background-color: $background-color;
-
-    min-height: 70vh;
-    max-width: 90%;
-    margin: auto;
 }
 
 .home {
@@ -14,5 +10,22 @@ $background-color: #dddddd;
         display: flex;
         justify-content: space-around;
         align-items: center;
+    }
 }
+
+.credits {
+    .cards-container
+    {
+        display: grid;
+        grid-template-columns: 22% 22% 22% 22%; 
+        grid-template-rows: 20rem;
+        justify-content: space-around;
+        align-items: center;
+        
+        grid-gap: 1rem;
+        justify-items: center; 
+
+        background-color: $background-color;
+        border-radius: 1.5rem;
+    }
 }
