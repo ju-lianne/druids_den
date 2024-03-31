@@ -1,0 +1,20 @@
+[
+    {
+        "id": "spells",
+        "imageUrl": "../images/spells.jpg",
+        "linkTo": "spells",
+        "title": "Sorts de druides"
+    },
+    {
+        "id": "grimoire",
+        "imageUrl": "../../grimoire.jpg",
+        "linkTo": "grimoire",
+        "title": "Grimoire"
+    },
+    {
+        "id": "animalForm",
+        "imageUrl": "../../chipmunk.jpg",
+        "linkTo": "animalForm",
+        "title": "Forme Animale"
+    }
+]
