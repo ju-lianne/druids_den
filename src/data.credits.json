@@ -2,21 +2,25 @@
     {
         "id": "Jq3WI9IQgEs",
         "imageUrl": "../images/leaves_corner.jpg",
-        "linkTo": "https://unsplash.com/@dtolokonov?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+        "linkTo": "https://unsplash.com/@dtolokonov?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash",
+        "title": "Dmytro Tolokonov"
     },
     {
         "id": "6wnQjjs",
         "imageUrl": "../images/spells.jpg",
-        "linkTo": "https://unsplash.com/@devin_photography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+        "linkTo": "https://unsplash.com/@devin_photography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash",
+        "title": "Devin H"
     },
     {
         "id": "VEzNEzBUBn8",
         "imageUrl": "../../grimoire.jpg",
-        "linkTo": "https://unsplash.com/@emilyunderworld?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+        "linkTo": "https://unsplash.com/@emilyunderworld?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash",
+        "title": "Emily Underworld"
     },
     {
         "id": "imFDGLyE7FY",
-        "imageUrl": "../../chipmunk.jpg",
-        "linkTo": "https://unsplash.com/@starkglow?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+        "imageUrl": "../../squirrel.jpg",
+        "linkTo": "https://unsplash.com/@veverkolog?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash",
+        "title": "Dušan Veverkolog"
     }
 ]
