@@ -3,12 +3,13 @@ import { Link } from 'react-router-dom';
 
 export default function Card({element}) {
   return (
-    <Link className='link' to={`/${element.id}`}>
+    <Link className='link' to={`/${element.linkTo}`}>
       <div className='card'  
         style={{
-          background: `linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url(${house.cover}) no-repeat center center / cover`,
+          background: `linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), 
+          url(${require('../../' + element.imageUrl)}) no-repeat center center / cover`,
         }}>
-        <h2>{house.title}</h2>
+        <h2>{element.title}</h2>
     </div>
     </Link>
   )
