@@ -6,7 +6,7 @@ export default function CardsContainer({ data }) {
   return (
     <div className='cards-container'>
         {data.map(element => (
-            <Card element={element} />
+            <Card key={element.id} element={element} />
       ))}
     </div>
   )
