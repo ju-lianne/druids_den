@@ -8,6 +8,8 @@ export default function Spells() {
     <div className='page'>
       <Header />
       <Footer />
+      <div className='page-body'>
+      </div>
     </div>
   )
 }
